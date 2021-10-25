@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HighLow</string>
+    <string name="intro">I\'m thinkin of a number between 1 to 20</string>
+    <string name="guess">Can u guess it?</string>
+    <string name="input">Input a number</string>
+    <string name="guess_it">Guess</string>
+</resources>
